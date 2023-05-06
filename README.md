@@ -1,3 +1,3 @@
 # React-Blog-App
 
-This is responsive UI for Blog APP made with ReactJs
+This is fullStack Blog APP made with ReactJs, NodeJS, Express and MongoDB
