@@ -2,4 +2,4 @@
 
 This is fullStack Blog APP made with ReactJs, NodeJS, Express and MongoDB
 
-last edit 16/07/2023
+last edit 17/07/2023
